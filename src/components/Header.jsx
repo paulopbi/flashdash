@@ -12,8 +12,12 @@ function Header() {
             <img src={Logo} alt="Logo do projeto" width={200} height={40} />
           </div>
           <div className="flex items-center justify-around gap-4">
-            <img src={Linkedin} alt="Linkedin logo" width={32} height={32} />
-            <img src={Github} alt="Github logo" width={32} height={32} />
+            <a href="https://www.linkedin.com/in/paulopbi/" target="_blank">
+              <img src={Linkedin} alt="Linkedin logo" width={32} height={32} />
+            </a>
+            <a href="https://github.com/paulopbi" target="_blank">
+              <img src={Github} alt="Github logo" width={32} height={32} />
+            </a>
           </div>
         </div>
       </Container>
