@@ -31,11 +31,15 @@ This project is built with **Vite**, **React JS**, styled with **Tailwind CSS**,
 
 ### Design
 
-The design was crafted in **Figma**. You can check out the design details here: [Figma](https://www.figma.com/design/xwy4ELBS248NDqluvTWu58/Unsplash-API?m=auto&t=lcRGgUNS2douRevJ-1).
+The design was crafted in **Figma**. In this pucture you can see the project style guide, check out the full project here: [Click here](https://www.figma.com/design/xwy4ELBS248NDqluvTWu58/Unsplash-API?m=auto&t=lcRGgUNS2douRevJ-1).
 
-<p align="center">
-<img src="public/flashdash_demo.gif" alt="Project Demo">
-</p>
+<img src="public/styleguide.png" alt="style guide" height="400">
+
+### Gif Demo
+
+<img src="public/flashdash_demo.gif" alt="Project Demo Gif" height="400">
+
+There you'll find the style guide and all the project draft.
 
 ### Clone
 
