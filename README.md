@@ -34,7 +34,7 @@ This project is built with **Vite**, **React JS**, styled with **Tailwind CSS**,
 The design was crafted in **Figma**. You can check out the design details here: [Figma](https://www.figma.com/design/xwy4ELBS248NDqluvTWu58/Unsplash-API?m=auto&t=lcRGgUNS2douRevJ-1).
 
 <p align="center">
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/xwy4ELBS248NDqluvTWu58/Unsplash-API?embed-host=share" allowfullscreen></iframe>
+<img src="public/flashdash_demo.gif" alt="Project Demo">
 </p>
 
 ### Clone
