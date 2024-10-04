@@ -94,7 +94,7 @@ function Cards() {
             onClick={() => setPages((prevPage) => prevPage + 1)}
             className="py-2 px-4 rounded-[4px] uppercase font-bold hover:bg-accent_secondary bg-accent text-black_100"
           >
-            GENERATE RANDOM PICTURES
+            generate random photos
           </button>
         </div>
       )}
