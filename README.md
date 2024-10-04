@@ -1,16 +1,16 @@
 <p align="center">
 <img src="./public/logo.png" alt="FlashDash logo"> <br>
-My Social Media <br>
-Linkedin, Github, Behance, LIVE DEMO, DESIGN
+Important links<br>
+<a href="https://www.linkedin.com/in/paulopbi/">Linkedin</a> • <a href="https://github.com/paulopbi">Github</a> • <a href="https://www.behance.net/paulopbi">Behance</a> • <a href="https://www.figma.com/design/xwy4ELBS248NDqluvTWu58/Unsplash-API?m=auto&t=lcRGgUNS2douRevJ-1">Figma</a> • <a href="https://paulopbi.github.io/flashdash/">Live Demo</a>
 </p>
 
-$\color{#71C8FF}{\textsf{FlashDash Instantly discover and download random photos with high-quality with a seamless and responsive interface.}}$ <br> Designed and built from scratch to inspire creativity at your fingertips.
+$\color{#71C8FF}{\textsf{FlashDash Instantly discover and download random photos with high-quality with a seamless and responsive interface.}}$ Designed and built from scratch to inspire creativity at your fingertips.
 
 <p align="center">
 <img src="./public/thumb.jpg" alt="Thumb">
 </p>
 
-This project is built with **React JS**, styled with **Tailwind CSS**, and integrated with the **Unsplash API** to provide a collection of random photos. It allows users to **download any image** that is displayed.
+This project is built with **Vite**, **React JS**, styled with **Tailwind CSS**, and integrated with the **Unsplash API** to provide a collection of random photos. It allows users to **download any image** that is displayed.
 
 ### Some Features:
 
@@ -22,25 +22,29 @@ This project is built with **React JS**, styled with **Tailwind CSS**, and integ
 
 ### Technologies Used
 
-- React JS for building the interface and managing state.
-- Tailwind CSS for styling and ensuring responsiveness.
-- Unsplash API for fetching random images.
-- ESLint for linting and code standards.
+- Figma.
+- Vite.
+- React JS.
+- Tailwind CSS.
+- Unsplash API.
+- ESLint.
 
 ### Design
+
+The design was crafted in **Figma**. You can check out the design details here: [Figma](https://www.figma.com/design/xwy4ELBS248NDqluvTWu58/Unsplash-API?m=auto&t=lcRGgUNS2douRevJ-1).
 
 <p align="center">
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/xwy4ELBS248NDqluvTWu58/Unsplash-API?embed-host=share" allowfullscreen></iframe>
 </p>
 
-### Git Clone
+### Clone
 
-To run this project locally, follow these steps:
+Feel free to fork this project or clone it, to run this project locally, follow these steps:
 
 Clone the repository
 
 ```bash
-https://github.com/paulopbi/flashdash
+git clone https://github.com/paulopbi/flashdash
 ```
 
 Install dependencies:
@@ -52,15 +56,9 @@ npm install
 Start the development server:
 
 ```bash
-    npm run dev
+npm run dev
 ```
 
-Design
-
-The design was crafted in Figma. You can check out the design details here: Figma Link.
-GIF Demonstration
-
-Project GIF
-License
+### License
 
 This project is open-source under the MIT License.
