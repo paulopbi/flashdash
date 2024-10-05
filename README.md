@@ -39,8 +39,6 @@ The design was crafted in **Figma**. In this pucture you can see the project sty
 
 <img src="public/flashdash_demo.gif" alt="Project Demo Gif" height="400">
 
-There you'll find the style guide and all the project draft.
-
 ### Clone
 
 Feel free to fork this project or clone it, to run this project locally, follow these steps:
@@ -65,4 +63,4 @@ npm run dev
 
 ### License
 
-This project is open-source under the MIT License.
+This project is open-source under the [MIT License](./LICENSE).
